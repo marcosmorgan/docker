@@ -26,11 +26,11 @@ Just to understand this a little better. From the same docker image, you can lau
 
 What I want to show you today are the basic concepts and commands that will give you 80% of Docker functionality.
 
-First, I will show you how to get docker images.
+* First, I will show you how to get docker images.
 
-Second, I will show you two ways to launch and use docker containers.
+* Second, I will show you two ways to launch and use docker containers.
 
-Third, we will cover how to generate new images.
+* Third, we will cover how to generate new images.
 
 First, where do I get the docker images from? If you just google “docker my_favority_program,” you will probably land on the hub.docker.com page with the info of an image with your program put together by a developer.
 
